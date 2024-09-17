@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mukesh560
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning python
+- 🌱 Learnt Python
+- I am working at Infogem Web Ptv. Sol. as IT Person (School Canvas team). 
 - 📫 How to reach me :- bhardwazmukesh19@gmail.com
 
 <!---
